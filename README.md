@@ -1,5 +1,4 @@
-### Hi there 👋 I am Fatima I am currently studing BSSE and don't forget to leave your comment.
-
+I'm Software Engineer And I Will post my Coding Project's Source Code.
 <!--
 **codewithfatima/codewithfatima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
