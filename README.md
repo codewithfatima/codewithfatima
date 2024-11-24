@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Software Engineer | Mern stack Developer | GRaphic Desginer</h1>
 <h3 align="center">I am a passionate and driven Software Engineer with over 2 years of hands-on experience specializing in Mern-stack development. With a strong foundation in both front-end and back-end technologies, I thrive in building dynamic, user-centered applications that are both functional and scalable. My expertise spans across modern web development frameworks, database management, and efficient coding practices, all while staying on the cutting edge of industry trends. I am committed to delivering high-quality solutions and continuously expanding my skill set to tackle the most challenging technical problems.</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/C5612AQG7GnrlpoBG9w/article-cover_image-shrink_600_2000/0/1594835668489?e=2147483647&v=beta&t=mF86lNdLR5b2TX-ozWUatJ3PEXVJdB2HuraH3nIr5Ww.gif" 
+<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/C5612AQG7GnrlpoBG9w/article-cover_image-shrink_600_2000/0/1594835668489?e=2147483647&v=beta&t=mF86lNdLR5b2TX-ozWUatJ3PEXVJdB2HuraH3nIr5Ww.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithfatima&label=Profile%20views&color=0e75b6&style=flat" alt="codewithfatima" /> </p>
 
