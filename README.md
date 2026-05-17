@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Software Engineer | Mern stack Developer | GRaphic Desginer</h1>
+<h1 align="center">Hi 👋, I'm Software Engineer | Mern stack Developer |. Net Developer </h1>
 <h3 align="center">I am a passionate and driven Software Engineer with over 2 years of hands-on experience specializing in Mern-stack development. With a strong foundation in both front-end and back-end technologies, I thrive in building dynamic, user-centered applications that are both functional and scalable. My expertise spans across modern web development frameworks, database management, and efficient coding practices, all while staying on the cutting edge of industry trends. I am committed to delivering high-quality solutions and continuously expanding my skill set to tackle the most challenging technical problems.</h3>
 
 
